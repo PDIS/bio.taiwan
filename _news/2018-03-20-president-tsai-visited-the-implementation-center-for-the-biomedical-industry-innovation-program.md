@@ -1,5 +1,5 @@
 ---
-title: President Tsai Visited the Implementation Center for the “Biomedical Industry Innovation Program”
+title: (20170626_NEWS)President Tsai Visited the Implementation Center for the “Biomedical Industry Innovation Program”
 summary: President Tsai visited the Biomedical Technology and Product Research Center in Hsinchu Biomedical Science Park on June 26, 2017
 image: /images/20170626newspic.jpg
 category: news
