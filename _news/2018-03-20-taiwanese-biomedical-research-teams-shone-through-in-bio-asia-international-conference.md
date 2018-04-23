@@ -1,6 +1,6 @@
 ---
 title: Taiwanese Biomedical Research Teams Shone Through in BIO Asia International Conference
-summary: Above: Taiwan SPARK Team Shone Through: Dr Fong-Chin Su, Deputy Minister of the MOST (4th from the right), Dr Woei-Jer Chuang, Director of the Department of Life Sciences of the MOST (3rd from the left), Prof. Yu-Feng Tseng of National Taiwan University (2nd from the right), Prof. Yu-Ching Lee of the Taipei Medical University (3rd from the right in the back row) and other team members.
+summary: The Bio Asia International Conference is an important regional event for innovative research collaboration between the industry and the academia.
 image: /images/20180320newspic.jpg
 category: news
 permalink: /news/taiwanese-biomedical-research-teams-shone-through-in-bio-asia-international-conference/
