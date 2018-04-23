@@ -15,10 +15,12 @@ By providing selected candidates with necessary training, the SPARK Program, ori
 Dr Fong-Chin Su, the Deputy Minister of the MOST and also the CEO of the Center for the Biomedical Industry Innovation Program, expressed that the linkage between biomedical innovations and venture capitals creates a new collaboration model which adequately docks the academic research results at the industry.  The SPARK Program plays an important role in this new model. 
 
 <b><l>The academia and the industry collaborate on new drug R&D</l></b>
+<br/>
 The BIO and the Stanford SPARK Program jointly organized the BIO SPARK Showcase for the first time in the BIO Asia International Conference to showcase projects selected from Asian countries.  This year, total 7 research teams were selected by the panel, including 3 teams from Taiwan.  They are Prof. Yu-Feng Tseng’s research team in the National Taiwan University about the “drugs for improving the negative symptoms and cognitive functions associated with schizophrenia”, Prof. Ling-Wei Hsin’s research team in the National Taiwan University about the “first-in-class new drug for treating intestinal fistula”, and Prof. Yu-Ching Lee’s research team in Taipei Medical University about the “the development of antibody drugs for cancers”.  These three teams made Taiwan outshine other countries in this year’s BIO SPARK Showcase.
 Since 2013, Professor Daria Mochly-Rosen, the founder of the Stanford SPARK Program, has been invited by the Taiwan SPARK, with full support from the MOST, to assist in screening potential research teams in Taiwan.  All selected teams receive guidance directly from the Stanford SPARK Program and Silicon Valley mentors.  As a result, the Taiwanese research team’s exhibition of innovative technology and the success in the commercialization of research discoveries attracted huge attention and acknowledgement in this year’s BIO Asia Conference.  About 450 delegates from 24 countries attended this year’s Conference and went to the 1260 one-on-one matchmaking sessions held by the organizer. 
 
 <b><l>Taiwanese biotech companies jointly showcased the R&D capacities</l></b>
+<br/>
 This year’s Taiwanese delegation includes the following biotech companies: 
 •	Tanvex Biopharma (R&D, manufacturing and marketing of biosimilars and new drugs)
 •	Twi Biotechnology (drugs for treating diseases of innate immune system)
