@@ -4,7 +4,7 @@
         <strong>EVENTS</strong>
     </h2>
     <div class="reel">
-        {% assign events = (site.events | sort: 'date') | reverse %}
+        {% assign events = (site.events | where_exp:"post","post.draft != 1" | sort: 'date') | reverse %}
         {% for post in events %}
         <article>
             <a href="{{post.permalink}}" class="image featured">
