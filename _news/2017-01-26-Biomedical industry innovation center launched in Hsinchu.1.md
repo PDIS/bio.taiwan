@@ -5,7 +5,6 @@ image: /images/02.jpg
 category: news
 permalink: /news/Biomedical-industry-innovation-center-launched-in-Hsinchu/
 layout: page
-pin: 1
 ---
 
 Vice President Chen Chien-jen (sixth left) is brought up to speed Jan. 25 on the latest developments in the local biomedical industry at the newly launched Center of Biomedical Industry Innovation Program in Hsinchu County, northern Taiwan. (Courtesy of Office of the President)
