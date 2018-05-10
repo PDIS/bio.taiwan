@@ -5,6 +5,7 @@ image: /images/20180427news.jpg
 category: news
 permalink: /news/taiwan-turns-healthcare-and-Long-term-care-to-its-advantage-in-creating-a-brighter-future-of-smart-health-and-wellness/
 layout: page
+draft: 1
 ---
 
 Jointly organized by the Biomedical Development Board (BDB) and the Medical Device Innovation Center of the National Cheng Kung University (NCKU) with the assistance of the Academia-Industry Consortium for Southern Taiwan Science Park, the “2018 Smart Health and Wellness Industry Forum” was held at NCKU on April 27.  In response to the trend of global aging, this forum discussed important industrial development strategies and issues, such as “care and long-term care”, “cloud-based smart wards”, “smart medical devices”, “smart healthcare”, etc.  These issues were fully discussed in the context of preventive medicine, smart elderly care and health promotion for the elderly. The event attracted over 200 audiences from various backgrounds to gear up for the upgraded “10-Year Long-term Care 2.0 Plan” in Taiwan.
