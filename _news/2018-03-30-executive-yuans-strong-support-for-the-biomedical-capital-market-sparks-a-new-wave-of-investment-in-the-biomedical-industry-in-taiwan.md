@@ -1,0 +1,31 @@
+---
+title: Executive Yuan’s strong support for the biomedical capital market sparks a new wave of investment in the biomedical industry in Taiwan
+summary: As capital markets in other Asian countries enthusiastically target on biomedical companies in Taiwan in order to have them listed on their stock exchanges, it has also generated the public’s great interests in the biomedical industry.
+image: /images/20180330news.jpg
+category: news
+permalink: /news/executive-yuans-strong-support-for-the-biomedical-capital-market-sparks-a-new-wave-of-investment-in-the-biomedical-industry-in-taiwan/
+layout: page
+draft: 1
+---
+
+As capital markets in other Asian countries enthusiastically target on biomedical companies in Taiwan in order to have them listed on their stock exchanges, it has also generated the public’s great interests in the biomedical industry.  Therefore, on March 30, 2018, the Biomedical Development Board of Taiwan, Taiwan Bio and PwC Taiwan jointly organized the “Forum on the New Opportunities in the Biomedical Capital Market”, under the guidance of the Ministry of Science and Technology (MOST) and Taipei Exchange.  Based on the government’s “5 plus 2 Industrial Innovation Policy” and the emerging trend of combining and activating the niches of the capital chain, this Forum aims to enhance the communication between the biomedical industry and investors so as to pave the way to the revitalization of the capital market in Taiwan.
+
+### Past success experiences work to Taiwan biomedical industry’s advantage
+‘The biomedical industry’s spring has arrived,’ said Dr. Shih-Torng Ding, Deputy Executive Secretary, Office of Science & Technology of the Board of Science and Technology (BOST).  Guided by the “5 plus 2 Industrial Innovation Policy”, the government allocates about NT$9.5 billion a year to biomedical related programs, demonstrating its commitment to supporting the industry’s development. As a result, the industry reached the target of launching more than 40 high-value medical devices in international markets in just two years, two years ahead of the government’s plan. It shows the competitive advantages and abundant capacity of the biomedical industry in Taiwan. 
+
+Dr. JohnSee Lee, Chairman of Taiwan Bio, mentioned that the enthusiasm shown by Hong Kong and China to biomedical companies in Taiwan indicates the global potential of the industry.  Taiwan has an excellent ecosystem for the industry and a sound investment environment, featuring various investment tools and flexible entry/exit mechanism. These factors attract international investors; and the investment rewards would further reinforce their extended interests in investing in potential biomedical companies, hence forming a virtuous circle.  Taiwan surely has the potential for a major biomedical hub in the Asia Pacific region.
+
+### Speed up biomedical IPOs to form a critical mass in the stock market
+This Forum invited Yu-Ching Su (President of Taipei Exchange), Tai-Sheng Song (President of SenHwa Biosciences), Yi-Ru Chen (Vice President of Medeon Biodesign), Xi Chang (President of Cathay Securities Investment Trust) and Po-Hui Chen (Vice President of DCI Partners) to be the panel, creating a new driving force behind the promotion of the biomedical capital market in Taiwan.
+
+According to the data from Taipei Exchange, there are currently 113 biotech companies listed on the stock market, including 81 on the OTC stock market.  As of March 29, 2018, biotech companies accounted for 16.28% of the market value of the stock exchange market. In the past three years, biotech companies ranked the first in terms of IPO applications. It has already formed a critical mass in the OTC stock market.
+
+In order to speed up the biomedical companies’ launches of IPOs, the government has initiated a cross-ministerial collaboration. The Biomedical Development Board of Taiwan, hence, facilitated a dialogue between Taipei Exchange and the Industrial Development Bureau.  The dialogue resulted in a consensus on aligning the assessment standards by having delegates from both organizations in the technology industry meetings and the listing assessment meetings.
+
+### Encourage institutional investment to reveal biomedical stock value
+The medical device industry has done particularly well in the past few years.  Backed by the unparalleled NHI database, the Taiwan biotech industry has great opportunities in the researches of Asia-specific diseases, the high value-added and niche drug market, and the high-end medical device market. However, the general investors find it difficult to evaluate the biomedical industry because of its broad diversity of technology. Therefore, the industry hopes that the government would encourage investment trusts to launch biomedical ETFs in Taiwan so as to reduce volatilities in the biomedical capital market. 
+
+Aiming to improve the Taiwan biomedical industry’s image, the Biomedical Development Board of Taiwan plans to collaborate with Taipei Exchange to organize investor conferences on a global scale, to lead Taiwanese biomedical companies to attend international road shows and investment forums and to increase the exposure of Taiwanese brands.  International investors’ professional assessment will help to reflect the characteristic values of biomedical stocks in Taiwan.  The Biomedical Development Board of Taiwan recently visited some operators of government funds to encourage their investment in listed biomedical companies, and has already received some positive responses.
+
+### Breakthrough and integration create new niches for biomedical investment
+Over 280 people attended this Forum, marking an important milestone in the development of the biomedical capital market in Taiwan.  Looking into the future, the government hopes to create an excellent investment environment and a communication platform to provide accurate and valuable information for investors and companies so as to help the biomedical industry to put down roots in Taiwan.  The Biomedical Development Board of Taiwan looks forward to continually working with all stakeholders to increase investors’ confidence so as to help the biomedical industry to sustain its innovation capacity and to reach a new peak.
