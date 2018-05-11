@@ -22,6 +22,7 @@ Hospitals and clinics will form the medical alliance to impress international vi
 
 Many events will run simultaneously at the venue, including professional seminars, procurement meetings, and new product launches. These events are arranged to help our buyers discover more about our exceptional exhibitors and provide them with the opportunity to gain the latest information in the medical industry. Get more information about MEDICARE TAIWAN and SenCARE, please pre-register on our official website: 
 
-**MEDICARE TAIWAN** 
+### MEDICARE TAIWAN 
 https://www.medicaretaiwan.com/en_US/member/visitor/preregister.html
+<br/>
 **SenCARE** https://www.sencare.com.tw/en_US/member/visitor/preregister.html
