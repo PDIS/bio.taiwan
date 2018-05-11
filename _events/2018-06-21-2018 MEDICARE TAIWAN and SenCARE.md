@@ -25,4 +25,4 @@ Many events will run simultaneously at the venue, including professional seminar
 ### MEDICARE TAIWAN 
 https://www.medicaretaiwan.com/en_US/member/visitor/preregister.html
 <br/>
-**SenCARE** https://www.sencare.com.tw/en_US/member/visitor/preregister.html
+**SenCARE** [https://www.sencare.com.tw/en_US/member/visitor/preregister.html](https://www.sencare.com.tw/en_US/member/visitor/preregister.html)
