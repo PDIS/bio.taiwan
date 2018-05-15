@@ -5,7 +5,6 @@ image: /images/20180330news.jpg
 category: news
 permalink: /news/executive-yuans-strong-support-for-the-biomedical-capital-market-sparks-a-new-wave-of-investment-in-the-biomedical-industry-in-taiwan/
 layout: page
-draft: 1
 ---
 
 As capital markets in other Asian countries enthusiastically target on biomedical companies in Taiwan in order to have them listed on their stock exchanges, it has also generated the public’s great interests in the biomedical industry.  Therefore, on March 30, 2018, the Biomedical Development Board of Taiwan, Taiwan Bio and PwC Taiwan jointly organized the “Forum on the New Opportunities in the Biomedical Capital Market”, under the guidance of the Ministry of Science and Technology (MOST) and Taipei Exchange.  Based on the government’s “5 plus 2 Industrial Innovation Policy” and the emerging trend of combining and activating the niches of the capital chain, this Forum aims to enhance the communication between the biomedical industry and investors so as to pave the way to the revitalization of the capital market in Taiwan.
