@@ -5,7 +5,6 @@ image: /images/20180426news.jpg
 category: news
 permalink: /news/prof-wentai-liu-the-father-of-bionic-eye-shares-his-experience-in-the-innovation-in-bioelectronic-medicine/
 layout: page
-draft: 1
 ---
 
 Bioengineering Prof. Wentai Liu of the UCLA was invited to give a speech on “Overview and Perspective of Bioelectronic Medicine” in the Science & Technology Building on April 26, 2018.  This event, organized by the Ministry of Science and Technology (MOST) with assistance of Biomedical Development Board of Taiwan, attracted a packed audience consisting of members in the government, the industry and the academia.
