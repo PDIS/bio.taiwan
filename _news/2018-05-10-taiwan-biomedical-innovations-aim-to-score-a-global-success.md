@@ -5,7 +5,6 @@ image: /images/20180510.jpg
 category: news
 permalink: /news/taiwan-biomedical-innovations-aim-to-score-a-global-success/
 layout: page
-draft: 1
 ---
 
 Biomedicine is the fastest growing, most widely applied and most influential technology among all human science and technology.  In light of the prosperous outlook and the great importance of the biomedical industry, President Tsai adamantly included the development of the biomedical industry in her administrative strategies before her inauguration.  This policy was made on the grounds that the biomedical industry will not only be the driving force behind the economic growth of Taiwan but also will enhance well-being for the mankind. 
