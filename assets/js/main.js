@@ -37,6 +37,8 @@
 				$body.removeClass('is-loading');
 			});
 
+			$body.removeClass('is-loading');
+
 		// CSS polyfills (IE<9).
 			if (skel.vars.IEVersion < 9)
 				$(':last-child').addClass('last-child');
