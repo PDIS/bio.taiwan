@@ -207,7 +207,7 @@
 						});
 
 				// Init.
-					$window.load(function() {
+					$window.on('load',function() {
 
 						reelWidth = $reel[0].scrollWidth;
 
