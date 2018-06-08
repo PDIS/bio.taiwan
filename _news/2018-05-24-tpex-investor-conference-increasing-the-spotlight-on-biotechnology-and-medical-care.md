@@ -5,7 +5,6 @@ image: /images/20180524news.jpg
 category: news
 permalink: /news/tpex-investor-conference-increasing-the-spotlight-on-biotechnology-and-medical-care/
 layout: page
-draft: 1
 ---
 
 On May 24, Taipei Exchange again held operation and performance presentations, this time titled “Biotechnology and Medical Care (II)”. One of the TPEx listed companies invited was TaiMed Biologics (4147), a pharmaceutical company that focuses on developing new drugs that can cure and prevent HIV. In the presentation, TaiMed Biologics provided a full description of its corporate organizational structure, HIV drug development milestones, relationships with partners, current operations, and important future goals. Also present at the event was GGA Corp. (4160), which specializes in genetic testing and precision medicine, and which presented investors with an explanation and analysis of the firm’s two major operational divisions, five aspects of precision medicine, recent operational performance, and future growth potential. Domestic medical device giant AmCad BioMed Corporation (4188), specializing in smart medical imaging devices, provided a detailed briefing on the company’s history, product characteristics, current operational model, and future prospects. Upper-level management from all 3 businesses personally delivered the presentations, and were all met with positive feedback from investors. The presentation proved to be extremely successful and fruitful.
