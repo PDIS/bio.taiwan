@@ -1,6 +1,6 @@
 ---
 title: ITRI Collaborates with Merck to Enhance New Drug Manufacturing
-summary: ITRI Executive Vice President C.T. Liu remarked that the government listed the biomedical sector as one of its focus industries
+summary: ITRI Executive Vice President C.T. Liu remarked that the government listed the biomedical sector as one of its focus industries in the 5+2 Industrial Innovation Program.
 image: /images/20180326news.jpg
 category: news
 permalink: /news/itri-collaborates-with-merck-to-enhance-new-drug-manufacturing/
