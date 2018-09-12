@@ -15,6 +15,6 @@ Taiwan has earned global recognition for its capacity of biomedical development 
  
 International resources are continued to be introduced into Taiwan from global biomedical giants, such as Merck and Janssen. Merck has announced a collaborative training program with ITRI.  Meanwhile, Janssen has established a R&D initiative for pharmaceuticals.
 
-Caption:
+### Caption:
 
 CEO of BioMed Taiwan, Dr. Fong-Chin Su (second from the left), at BBA’s luncheon depicts the measures to promote Taiwan's biomedical industry, and cultivate Taiwan into an Asia-Pacific biomedical hub. (From left to right: IC Jan, Assistant Chief Executive of Biohub Taiwan of National Biotechnology Research Park; Fong-Chin Su, CEO of BioMed Taiwan and Deputy Minister of Ministry of Science and Technology; Manny Simons, CEO of Akouos, Inc.; Chii-Wann Lin, Vice President of ITRI and General Director of Biomedical Technology and Device Research Laboratories)
