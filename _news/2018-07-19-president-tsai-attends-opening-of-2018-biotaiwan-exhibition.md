@@ -32,3 +32,5 @@ Many representatives of the biomedical industry from Europe, the United States, 
 President Tsai pointed out that Taiwan's advanced technology, outstanding personnel, and comprehensive institutional environment will help firms surmount every hurdle from R&D to mass production, and achieve continuous growth. In closing, she welcomed everyone to invest in Taiwan. Don't miss the wave of the future, she said, and the new opportunities presented by Taiwan's thriving biomedical industry. The president also thanked all the domestic companies participating in the exhibition for showing the world the power of Taiwan's biomedical industry.
 
 After concluding her remarks, President Tsai presented the 2018 Taiwan BIO Award, and joined the guests for a ribbon cutting ceremony. She then expressed hope that that event will be a great success, and that Taiwan's biomedical industry will go forth and prosper.
+
+Source：Office of the President Taiwan (ROC)
