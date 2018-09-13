@@ -14,3 +14,5 @@ After arriving at the TMC Innovation Institute, President Tsai first received br
 Established in 1945, the Texas Medical Center is the largest medical center in the world. It encompasses medical treatment, teaching, and clinical research institutions, and also runs the TMC Biodesign fellowship program. The Texas Medical Center launched the US$25 million TMC Venture Fund in 2017 to invest in medical and biomedical startups to support these early-stage companies in their R&D work, business operations, and clinical care and clinical trials, and also help them gain access to the resources and advisory network of the Texas Medical Center. Such assistance can help early-stage companies to attract more investments.
 
 Among those taking part in the tour were American Institute in Taiwan Chairman James Moriarty, National Security Council Secretary-General David T. Lee (李大維), Foreign Minister Joseph Wu (吳釗燮), Minister of Education Jiunn-rong Yeh (葉俊榮), and ROC Representative to the United States Stanley Kao (高碩泰) and Mrs. Kao.
+
+Source：Office of the President Taiwan (ROC)
