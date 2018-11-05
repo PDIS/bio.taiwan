@@ -1,3 +1,4 @@
+---
 title: BTC：Expanding the Scope for Biomedical Industry Innovation by Leveraging Taiwan's ICT Capabilities
 summary: The Bio Taiwan Committee (BTC), an advisory committee for the advancement of Taiwan's biomedical industry that was chaired by Minister without Portfolio for Science and Technology- Dr. Tsung-Tsong Wu
 image: /images/20180907news.jpg
