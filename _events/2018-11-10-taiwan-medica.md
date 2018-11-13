@@ -1,9 +1,9 @@
 ---
-title: 2018 Taiwan MEDICA
-summary: 2018 Taiwan MEDICA
-image: /images/2018 Taiwan MEDICA.JPG
+title: Taiwan@MEDICA
+summary: Taiwan@MEDICA
+image: /images/Taiwan@MEDICA.JPG
 category: events
-permalink: events/2018-taiwan-medica/
+permalink: events/taiwan@medica/
 layout: page
 ---
 
