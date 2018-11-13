@@ -3,7 +3,7 @@ title: Taiwan@MEDICA
 summary: Taiwan@MEDICA
 image: /images/Taiwan_MEDICA.JPG
 category: events
-permalink: events/taiwan@medica/
+permalink: events/taiwan-medica/
 layout: page
 ---
 
