@@ -1,7 +1,7 @@
 ---
 title: Taiwan@MEDICA
 summary: Taiwan@MEDICA
-image: /images/Taiwan_MEDICA.JPG
+image: /images/Taiwan MEDICA.JPG
 category: events
 permalink: events/taiwan-medica/
 layout: page
