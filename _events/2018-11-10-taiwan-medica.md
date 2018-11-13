@@ -7,7 +7,7 @@ permalink: events/taiwan@medica/
 layout: page
 ---
 
-2018 Taiwan MEDICA
+Taiwan@MEDICA
 
 ### Information：
 * **Website：** [http://onepieceit.com/medica2018/](http://onepieceit.com/medica2018/)
