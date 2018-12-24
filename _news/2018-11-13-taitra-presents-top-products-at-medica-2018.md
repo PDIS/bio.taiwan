@@ -25,6 +25,5 @@ Rehabotics Medical Technology Corporation presents an innovative robotics produc
 Taiwan relies on technological progress
 For many years, Taiwan has enjoyed an excellent reputation as a location for the manufacture of high-quality consumer electronics and medical technology equipment, which the small country has now been able to develop into a significant competitive advantage. TAITRA is committed to those companies that are entering the market with particularly innovative ideas and acts as a partner, mediator and consultant when it comes to initiating and concluding transactions between Taiwanese companies and customers at home and abroad. At the TAITRA joint exhibition stand at the current MEDICA, 15 companies present their new products, which have received the "Taiwan Excellence Award".
 
-About TAITRA:
-<br/>
+### About TAITRA:
 TAITRA was founded in 1970 as a non-profit trade promotion organization. Supported by the Taiwanese government, TAITRA opens up new national and international sales markets for member companies from various sectors. TAITRA has created the "Taiwan Excellence" label, which is awarded every year to particularly innovative products or companies. TAITRA is headquartered in Taiwan's capital Taipei. The organization has a total of 61 branches worldwide. In Germany, TAITRA has two offices in Düsseldorf and Munich.
