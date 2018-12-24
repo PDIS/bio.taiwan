@@ -3,7 +3,7 @@ title: BIOMED TW & TMBIA led over 200 firms to MEDICA
 summary: MEDICA is the leading international trade fair for the medical sector held in Dusseldorf, Germany every year.  The BIOMED Taiwan joined with the Taiwan Medical and Biotech Industry Association (TMBIA) and the Taiwan External Trade Development Council (TAITRA) in spearheading Taiwan's participation in MEDICA 2018 with a delegation of 231 firms.
 image: /images/20181206news.jpg
 category: news
-permalink: /news/biomed-tw-tmbia-led-over-200-firms-to-medica
+permalink: /news/biomed-tw-tmbia-led-over-200-firms-to-medica/
 layout: page
 ---
 Fourth from left is Dr. Woei-Jer Chuang, Director General,Department of Life Sciences.
