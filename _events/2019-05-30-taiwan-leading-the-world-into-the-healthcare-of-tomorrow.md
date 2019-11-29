@@ -1,7 +1,7 @@
 ---
 title: Taiwan, leading the world into the “Healthcare of Tomorrow”
 summary: Taiwan has been featured in the November issue of Scientific American this year, titled “Ready to Disrupt? TAIWAN”. 
-image: /images/20191030.jpg
+image: /images/20190530.jpg
 category: events
 permalink: events/taiwan-leading-the-world-into-the-healthcare-of-tomorrow/
 layout: page
