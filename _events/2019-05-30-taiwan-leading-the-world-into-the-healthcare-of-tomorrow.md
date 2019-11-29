@@ -7,6 +7,7 @@ permalink: events/taiwan-leading-the-world-into-the-healthcare-of-tomorrow/
 layout: page
 ---
 
+
 * **Healthcare&LifeSciencesReview_Taiwan Report**  [*Download](https://drive.google.com/file/d/1Ufl-kMtZhKWuAHrC-PX2BwY4_h0ZLtua/view?usp=sharing)
 
 Taiwan has been featured in the November issue of Scientific American this year, titled “Ready to Disrupt? TAIWAN”. The report highlighted in-depth analysis of Taiwan’s healthcare and life science industry. As the report pointed out in the beginning, it predicted that “the tiny Asian Pacific island of Taiwan standing out proudly among more obviously heavyweight protagonists—such as the United States, Japan, Germany and Switzerland—in staking an audacious claim for the title of lead pioneer to shape the healthcare of tomorrow”. The feature also interviewed ministerial officials, industry leaders and academic researchers to discuss issues such as governmental policies, regulations, capital investments, translational researches, and their impact on the progression of Taiwan’s biomedical industry. 
