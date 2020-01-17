@@ -1,3 +1,4 @@
+---
 title: Taiwan tech startups shine at CES 2020
 summary: A delegation of 82 Taiwan-based tech startups is attending the Taipei Tech Arena Pavilion at the Consumer Electronics Show Jan. 7-10 in Las Vegas
 image: https://image.taiwantoday.tw/images/content/img20200109161624598_800.jpg
@@ -5,6 +6,7 @@ category: news
 permalink: /news/taiwan-tech-startups-shine-at-ces-2020/
 layout: page
 ---
+
 A delegation of 82 Taiwan-based tech startups is attending the Taipei Tech Arena Pavilion at the Consumer Electronics Show Jan. 7-10 in Las Vegas, underscoring the country’s key role in the global information and communication technology sector.
  
 Organized by the Ministry of Science and Technology and Taipei City-based TTA, the pavilion showcases firms developing the latest innovations across fields such as artificial intelligence, smart health care, Internet of Things, software and wearable devices.
