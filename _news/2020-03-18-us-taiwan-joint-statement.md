@@ -17,9 +17,9 @@ To further strengthen U.S.-Taiwan consultation and cooperation on combatting the
 •	Joint conferences with scientists and experts, and<br/>
 •	Cooperation and exchanges of medical supplies and equipment<br/>
  
-         AIT<br/>                                       
+AIT<br/>                   
 Director Brent Christensen<br/>               
-         MOFA<br/>
+MOFA<br/>
 Foreign Minister Joseph Wu<br/>
 <br/>
 Date: 2020-03-18
