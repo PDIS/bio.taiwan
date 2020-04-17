@@ -1,7 +1,7 @@
 ---
 title: Taiwan’s efforts combating COVID-19 earn international praise
 summary: Taiwan’s timely and transparent efforts combating COVID-19 have been the subject of praise across international media, featuring in articles from 243 outlets spotlighting growing support worldwide for the country’s inclusion in the activities, mechanisms and meetings of the World Health Organization, according to the Ministry of Foreign Affairs March 6.
-image: https://image.taiwantoday.tw/images/content/img20200309151620983_800.jpg
+image: /images/20200309news.jpg
 category: news
 permalink: /news/taiwans-efforts-combating-covid-19-earn-international-praise/
 layout: page
