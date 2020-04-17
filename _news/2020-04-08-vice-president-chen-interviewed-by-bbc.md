@@ -1,7 +1,7 @@
 ---
 title: Vice President Chen interviewed by BBC
 summary: In a videoconference interview for the BBC "Newsday" program on the morning of April 8, Vice President Chen Chien-jen shared Taiwan's experience fighting the coronavirus disease 2019 (COVID-19)
-image: /images/20200405news.jpg
+image: /images/20200408news.jpg
 category: news
 permalink: /news/vice-president-chen-interviewed-by-bbc/
 layout: page
