@@ -8,15 +8,16 @@ layout: page
 ---
 
 To further strengthen U.S.-Taiwan consultation and cooperation on combatting the COVID-19 virus, which originated in Wuhan, both sides will seek to share best practices and cooperate on a range of activities under a partnership that includes:
-•	Research and development of rapid tests;
-•	Research and production of vaccines
-•	Research and production of medicines
-•	Contact tracing techniques and technology
-•	Joint conferences with scientists and experts, and
-•	Cooperation and exchanges of medical supplies and equipment
+<br/>
+•	Research and development of rapid tests;<br/>
+•	Research and production of vaccines<br/>
+•	Research and production of medicines<br/>
+•	Contact tracing techniques and technology<br/>
+•	Joint conferences with scientists and experts, and<br/>
+•	Cooperation and exchanges of medical supplies and equipment<br/>
  
-         AIT                                        MOFA
-Director Brent Christensen               Foreign Minister Joseph Wu
+         AIT<br/>                                       MOFA<br/>
+Director Brent Christensen<br/>               Foreign Minister Joseph Wu<br/>
 
 <br/>
 Date: 2020-03-18
