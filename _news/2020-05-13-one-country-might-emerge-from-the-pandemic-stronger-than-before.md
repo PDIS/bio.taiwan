@@ -21,7 +21,7 @@ But the island’s rising profile, and its support from US president Donald Trum
 
 China still considers Taiwan part of its territory, though the ruling Communist Party has never had sovereign control over it. Almost all governments in the world, as well as groups like the UN, recognize only the sovereignty of the government in Beijing. As a result, China is able to actively prevent Taiwan from joining organizations like the WHO, whose membership is predicated on statehood. The whole issue will come to a head at next week’s World Health Assembly, the yearly meeting of the WHO’s plenary body.
 
-Stuck between the US and a hard place
+### Stuck between the US and a hard place
 
 The pandemic seems to have hastened the arrival of a “new Cold War” between China and the US—and Taiwan is stuck in the middle.
 The issue, ostensibly, is Taiwan’s lack of membership in the WHO. Because the UN recognizes only the government in Beijing, and the WHO is a UN body, Taiwan is not a member of the WHO. For eight years, following the 2009 H1N1 influenza epidemic, Taiwan was invited to send observers to the World Health Assembly under the name “Chinese Taipei.” But that ended in 2016 after Taiwan elected a president from a pro-independence party. Beijing has opposed Taiwan’s inclusion as an observer ever since. The WHO says it can only extend invitations to observers if it has the approval of its member states.
@@ -36,7 +36,7 @@ American support is key for Taiwan, but it comes with risks. The US is not popul
 
 Vocal US backing could also trigger a backlash from Beijing that Taipei hopes to avoid. While the Taiwanese government wants a greater role in international organizations, it’s not asking for full diplomatic recognition as a sovereign country. It knows that such demands could invite a response from China’s military, which has recently become more aggressive along Taiwan’s borders.
 
-Coming out on top
+### Coming out on top
 
 Beijing believes that Taiwan is “unscrupulously using the virus to seek independence,” and argues that the US is taking advantage of the situation to hurt China and distract attention from its own botched response to the outbreak.
 
