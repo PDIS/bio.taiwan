@@ -1,6 +1,6 @@
 ---
 title: Taiwan's weapon against coronavirus: An epidemiologist as Vice President
-summary: Chen Chien-jen has embraced a rare dual role, using his political authority as vice president to criticize China’s response to the virus even as he hunkers down to analyze trends in transmission.
+summary: The calls come at night, when Taiwan's vice president, Chen Chien-jen, is usually at home in his pajamas. 
 image: https://static01.nyt.com/images/2020/05/08/world/00taiwan-vp-1sub/merlin_135275136_776b4201-5688-4587-819e-b2f6f298246f-jumbo.jpg?quality=90&auto=webp
 category: news
 permalink: /news/taiwans-weapon-against-coronavirus-an-epidemiologist-as-vice-president/
