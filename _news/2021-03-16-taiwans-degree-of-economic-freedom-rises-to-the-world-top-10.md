@@ -1,7 +1,7 @@
 ---
 title: Taiwan’s degree of economic freedom rises to the world top 10
 summary: In the 2019 Index of Economic Freedom jointly issued by the Heritage Foundation and the Wall Street Journal, Taiwan ranks 10th in the 180 economies rated. 
-image: https://image.taiwantoday.tw/img20210218161700554_800.jpg
+image: /images/20210316news.jpg
 category: news
 permalink: /news/taiwans-degree-of-economic-freedom-rises-to-the-world-top-10/
 layout: page
