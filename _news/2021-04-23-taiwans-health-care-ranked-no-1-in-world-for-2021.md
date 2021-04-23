@@ -19,6 +19,7 @@ China came in at a lowly 40th place for its Health Care Index score of 66.38, an
 
 Its Health Care Index category is a rating of the "overall quality of the healthcare system, health care professionals, equipment, staff, doctors, cost, etc..." The Health Care Exp Index takes the Health Care Index of a country and raises it exponentially if a health care system is rated as having better quality.
 <br/>
+<br/>
 Date: 2021-01-19
 <br/>
 Source: Taiwan News
