@@ -56,7 +56,6 @@ Taiwan would be your best partner in Asia!
 
 # **Organizer**
 **[the Board of Science and Technology (BOST)](https://bost.ey.gov.tw/)**   
-<br/>
 **[BIOMED](https://bio.taiwan.gov.tw/index.html)**
 <br/>
 **Ministry of Economic Affairs,R.O.C.**
