@@ -65,7 +65,7 @@ Taiwan would be your best partner in Asia!
 
 **[https://www.biopharm.org.tw](https://www.biopharm.org.tw)** 
 <br/>
-**[services@biopharm.org.tw](services@biopharm.org.tw)** 
+**services@biopharm.org.tw** 
 
 ---
 
