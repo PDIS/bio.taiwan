@@ -37,11 +37,16 @@ Taiwan would be your best partner in Asia!
 ---
 
 # **Taiwan Delegation Fields**
-**[Biotech (incl. agriculture)](http://bravotaiwan.tw/)**              
+**[Biotech (incl. agriculture)](http://bravotaiwan.tw/)**
+<br/>
 **[Contracted Services (incl. CRO, CDMO)](http://bravotaiwan.tw/)**
-**[Small Molecule Drugs](http://bravotaiwan.tw/)**                     
+<br/>
+**[Small Molecule Drugs](http://bravotaiwan.tw/)**
+<br/>
 **[Precision Health](http://bravotaiwan.tw/)**
-**[Biologics (incl. regenerative med.)](http://bravotaiwan.tw/)**      
+<br/>
+**[Biologics (incl. regenerative med.)](http://bravotaiwan.tw/)**
+<br/>
 **[Government & Academic Institutions](http://bravotaiwan.tw/)**
 
 ---
