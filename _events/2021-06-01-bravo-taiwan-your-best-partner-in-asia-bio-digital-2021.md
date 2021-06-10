@@ -7,9 +7,9 @@ permalink: events/bravo-taiwan-your-best-partner-in-asia-bio-digital-2021/
 layout: page
 ---
 
-Bravo Taiwan! Your best partner in Asia 
-@ BIO Digita 2021
-June 10-18, 2021
+# **Bravo Taiwan! Your best partner in Asia **
+# **@ BIO Digita 2021 **
+# **June 10-18, 2021 **
 
 # **Introduction**
 BIO Digital is the world's largest virtual biotech partnering and education event, convening thousands of global biotech leaders and innovators. 
@@ -37,8 +37,38 @@ Taiwan would be your best partner in Asia!
 ---
 
 # **Taiwan Delegation Fields**
-**[Biotech (incl. agriculture)](http://bravotaiwan.tw/)**              **[Contracted Services (incl. CRO, CDMO)](http://bravotaiwan.tw/)**
-**[Small Molecule Drugs](http://bravotaiwan.tw/)**                     **[Precision Health](http://bravotaiwan.tw/)**
-**[Biologics (incl. regenerative med.)](http://bravotaiwan.tw/)**      **[Government & Academic Institutions](http://bravotaiwan.tw/)**
+**[Biotech (incl. agriculture)](http://bravotaiwan.tw/)**              
+**[Contracted Services (incl. CRO, CDMO)](http://bravotaiwan.tw/)**
+**[Small Molecule Drugs](http://bravotaiwan.tw/)**                     
+**[Precision Health](http://bravotaiwan.tw/)**
+**[Biologics (incl. regenerative med.)](http://bravotaiwan.tw/)**      
+**[Government & Academic Institutions](http://bravotaiwan.tw/)**
+
+---
+
+# **Organizer**
+**[the Board of Science and Technology (BOST)](https://bost.ey.gov.tw/)**              
+**[BIOMED)](https://bio.taiwan.gov.tw/index.html)**
+
+
+---
+
+# **Contact- One stop service window**
+
+**[https://www.biopharm.org.tw](https://www.biopharm.org.tw)** 
+**[services@biopharm.org.tw](services@biopharm.org.tw)** 
+
+---
+
+# **About BIO Digital 2021**
+The world's largest global biotech partnering experience, promoted by the Biotechnology Innovation Organization (BIO) and accelerating a BIO-Revolution through global partnerships, collaboration, and thought leadership.
+
+June 10-11 early access: 
+Global Marketplace Showcase & Networking, Patient Central, Start-up Stadium, Academic Campus
+
+June 14-18 Bio Digital Week: 
+One on one partnering, Company presentation, Interactive Education, Solution Exchange, Premier Engagement Events 
+
+More information please see **[https://www.bio.org/events/bio-digital](https://www.bio.org/events/bio-digital)**
 
 
