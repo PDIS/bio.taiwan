@@ -7,9 +7,9 @@ permalink: events/bravo-taiwan-your-best-partner-in-asia-bio-digital-2021/
 layout: page
 ---
 
-# **Bravo Taiwan! Your best partner in Asia **
-# **@ BIO Digita 2021 **
-# **June 10-18, 2021 **
+# Bravo Taiwan! Your best partner in Asia
+# @ BIO Digita 2021
+# June 10-18, 2021
 
 # **Introduction**
 BIO Digital is the world's largest virtual biotech partnering and education event, convening thousands of global biotech leaders and innovators. 
@@ -48,7 +48,7 @@ Taiwan would be your best partner in Asia!
 
 # **Organizer**
 **[the Board of Science and Technology (BOST)](https://bost.ey.gov.tw/)**              
-**[BIOMED)](https://bio.taiwan.gov.tw/index.html)**
+**[BIOMED](https://bio.taiwan.gov.tw/index.html)**
 
 
 ---
@@ -56,6 +56,7 @@ Taiwan would be your best partner in Asia!
 # **Contact- One stop service window**
 
 **[https://www.biopharm.org.tw](https://www.biopharm.org.tw)** 
+<br/>
 **[services@biopharm.org.tw](services@biopharm.org.tw)** 
 
 ---
