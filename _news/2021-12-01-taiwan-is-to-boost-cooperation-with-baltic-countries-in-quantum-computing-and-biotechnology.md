@@ -1,9 +1,9 @@
 ---
-title: Taiwan to boost its ties with Baltic countries
+title: Taiwan is to boost cooperation with Baltic countries in quantum computing and biotechnology
 summary: TECH COOPERATION：A delegation from Lithuania, Estonia and Latvia discussed advances in biomedicine, science parks and semiconductors with science officials
 image: https://www.taipeitimes.com/images/2021/12/01/P03-211201-7a.jpg
 category: news
-permalink: /news/taiwan-to-boost-its-ties-with-baltic-countries/
+permalink: /news/taiwan-is-to-boost-cooperation-with-baltic-countries-in-quantum-computing-and-biotechnology/
 layout: page
 ---
 
