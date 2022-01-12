@@ -1,5 +1,5 @@
 ---
-title: President Tsai delivers 2022 New Year’s Day address - continue to boost investment in Taiwan based on the 5+2 Innovative Industries Plan and the Six Core Strategic Industries
+title: President Tsai delivers 2022 New Year’s Day address－continue to boost investment in Taiwan based on the 5+2 Innovative Industries Plan and the Six Core Strategic Industries
 summary: President Tsai Ing-wen delivers her New Year’s Day address at the Presidential Office in Taipei City.
 image: https://image.taiwantoday.tw/images/content/img20220103142717822.jpg
 category: news
