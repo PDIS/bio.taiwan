@@ -11,13 +11,13 @@ Moderna, Inc. is one of the most recognized pharmaceutical and biotechnology com
 
 “After a decade of pioneering the development of our mRNA platform, we were ready to play a critical role in combating the COVID-19 pandemic globally,” said Stéphane Bancel, CEO of Moderna. 
 
-Subsidiaries in APAC Will Continue Support mRNA Vaccines and Medications 
+### Subsidiaries in APAC Will Continue Support mRNA Vaccines and Medications ### 
 
 Moderna’s new subsidiaries will continue to provide local presence to support the delivery of mRNA vaccines and therapeutics.
 
 Bancel further added, “with the addition of four subsidiaries in Asia, we look forward to new opportunities to leverage our mRNA platform to help solve health challenges, including those with a high burden of disease in the Asia-Pacific region.”
 
-Moderna’s Upcoming Development Programs
+### Moderna’s Upcoming Development Programs ### 
  
 After developing the second FDA-approved mRNA vaccine against SARS-CoV-2, Moderna continues to upgrade its COVID-19 strategy to combat COVID variants. 
 
