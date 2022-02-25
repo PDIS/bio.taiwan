@@ -21,11 +21,11 @@ The president said that in the past few years, in order to promote the developme
 
 “For example, the opening of cell therapy, telemedicine, and the establishment of a smart medical material project office. Now, we also predict that three laws on regenerative medicine will be enacted, including the “Regenerative Medicine Development Law”, “Regulations on the Implementation of Regenerative Medicine” and “Regulations on the Administration of Regenerative Medicine Preparations”. In the three methods of regenerative medicine, we will actively reward regenerative medicine research by adding special funds. We also have relevant plans to recruit and train talents, hoping to promote the vigorous development of the regenerative medicine industry.”
 
-### The president further stated that one of Taiwan’s most advantageous industries is the information and communication industry.### 
+### The president further stated that one of Taiwan’s most advantageous industries is the information and communication industry.
 
 “We also hope that the information and communication industry and the biomedical industry will have cross-sectoral links to develop Taiwan’s advantages, which is also an important foundation for the development of precision medicine. In fact, the government has put forward relevant plans to introduce the latest technologies such as huge amounts of data, artificial intelligence, blockchain, and the Internet of Things. We will continue to strengthen the development of precision medicine and build a brand of precision medical care that belongs to Taiwan.”
 
-### The president expects that, with the joint efforts of everyone, information and communication and biomedicine, two of Taiwan’s most advantageous industries, can be combined.### 
+### The president expects that, with the joint efforts of everyone, information and communication and biomedicine, two of Taiwan’s most advantageous industries, can be combined.
 
 To achieve these goals, all advanced and the government need to work together. Tomorrow is the Lantern Festival. She also wishes everyone a happy new year. “In the new year, the biotechnology industry will flourish,” said president Tsai Ing-wen.
 
