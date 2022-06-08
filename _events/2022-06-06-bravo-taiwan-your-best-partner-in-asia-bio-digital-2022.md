@@ -58,4 +58,5 @@ You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan del
 ---
 # **About BIO International Convention 2022**
 **[2022 BIO International Convention](https://www.bio.org/events/bio-international-convention)** is back in person!
+<br/>
 For the first time in three years, the BIO International Convention will be back fully in person in San Diego, California! Join us June 13-16, 2022 to explore ‘LIMITLESS’ possibilities and seize today's unprecedented momentum to realize a biotech-driven future where we can cure disease, and create a healthier world through science.
