@@ -14,10 +14,9 @@ Bio 2022 Taiwan delegation with over 50 companies and organizations in new drug,
 You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan delegation’s online website. (Bravo Taiwan: [http://bravotaiwan.tw/](http://bravotaiwan.tw/)).
 
 ---
-# **Strengths**
-* **Asia-Pacific Hub**
-<br/>
-** **Asia-Pacific Hub**
+### Strengths
+* Asia-Pacific Hub
+* Abundant Government Resources
 
 ---
 # **Taiwan Delegation Fields**
