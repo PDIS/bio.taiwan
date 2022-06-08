@@ -14,7 +14,7 @@ Bio 2022 Taiwan delegation with over 50 companies and organizations in new drug,
 You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan delegation’s online website. (Bravo Taiwan: [http://bravotaiwan.tw/](http://bravotaiwan.tw/)).
 
 ---
-# **Strengths# **
+# **Strengths**
 * Asia-Pacific Hub
 * Abundant Government Resources
 * Compliance with PIC/s GMP, ISO13485 & GMP
@@ -24,20 +24,14 @@ You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan del
 * Friendly Investment, Fundraising & Financing Environment
 
 ---
-# **Taiwan Delegation Fields# **
-Precision & Smart Health
-<br/>
-Biotech (incl. agriculture)
-<br/>
-Small Molecule Drugs
-<br/>
-Biologics (incl. regenerative med.)
-<br/>
-Medical Device
-<br/>
-Contracted Services (incl. CRO, CDMO)
-<br/>
-Government & Academic Institutions
+# **Taiwan Delegation Fields**
+* Precision & Smart Health
+* Biotech (incl. agriculture)
+* Small Molecule Drugs
+* Biologics (incl. regenerative med.)
+* Medical Device
+* Contracted Services (incl. CRO, CDMO)
+* Government & Academic Institutions
 
 ---
 # **DM & Brochure**
