@@ -17,17 +17,7 @@ You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan del
 # **Strengths**
 * **Asia-Pacific Hub**
 <br/>
-* **Asia-Pacific Hub**
-<br/>
-* **Asia-Pacific Hub**
-<br/>
-* **Asia-Pacific Hub** 
-<br/>
-* **Asia-Pacific Hub**
-<br/>
-* **Asia-Pacific Hub** 
-<br/>
-* **Asia-Pacific Hub** 
+** **Asia-Pacific Hub**
 
 ---
 # **Taiwan Delegation Fields**
