@@ -41,16 +41,12 @@ You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan del
 
 ---
 # **Organizer**
-**[the Board of Science and Technology (BOST)](https://bost.ey.gov.tw/)**   
-**[BioMed Taiwan](https://bio.taiwan.gov.tw/index.html)**
-<br/>
-**Ministry of Economic Affairs, R.O.C.**
-<br/>
-**Ministry of Health and Welfare**
-<br/>
-**Ministry of Science and Technology**
-<br/>
-**Council of Agriculture of EXECUTIVE YUAN R.O.C.**
+* **[the Board of Science and Technology (BOST)](https://bost.ey.gov.tw/)**   
+* **[BioMed Taiwan](https://bio.taiwan.gov.tw/index.html)**
+* **Ministry of Economic Affairs, R.O.C.**
+* **Ministry of Health and Welfare**
+* **Ministry of Science and Technology**
+* **Council of Agriculture of EXECUTIVE YUAN R.O.C.**
 
 ---
 # **Contact- One stop service window**
