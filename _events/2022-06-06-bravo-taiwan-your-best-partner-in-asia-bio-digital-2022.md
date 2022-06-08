@@ -1,7 +1,7 @@
 ---
 title: Bravo Taiwan! Your best partner in Asia @ BIO International Convention 2022
 summary: Bravo Taiwan! Your best partner in Asia @ BIO International Convention 2022
-image: /images/BIO Digital 2021.png
+image: /images/BIO Digital 2021.jpg
 category: events
 permalink: events/bravo-taiwan-your-best-partner-in-asia-bio-digital-2022/
 layout: page
