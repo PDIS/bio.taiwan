@@ -15,11 +15,11 @@ You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan del
 
 ---
 # **Strengths**
-* **Asia-Pacific Hub** 
+* **Asia-Pacific Hub**
 <br/>
-* **Abundant Government Resources** 
+* **Abundant Government Resources**
 <br/>
-* **Compliance with PIC/s GMP, ISO13485 & GMP** 
+* **Compliance with PIC/s GMP, ISO13485 & GMP**
 <br/>
 * **Comprehensive Clusters Infrastructure** 
 <br/>
