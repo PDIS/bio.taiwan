@@ -15,19 +15,19 @@ You are welcome to visit our Taiwan Pavilion on-site booth as well as Taiwan del
 
 ---
 # **Strengths**
-Asia-Pacific Hub 
+* **Asia-Pacific Hub** 
 <br/>
-Abundant Government Resources
+* **Abundant Government Resources** 
 <br/>
-Compliance with PIC/s GMP, ISO13485 & GMP
+* **Compliance with PIC/s GMP, ISO13485 & GMP** 
 <br/>
-Comprehensive Clusters Infrastructure
+* **Comprehensive Clusters Infrastructure** 
 <br/>
-High-Quality Clinical Research
+* **High-Quality Clinical Research** 
 <br/>
-Well-Protected Intellectual Property System & International Regulatory Compatibility
+* **Well-Protected Intellectual Property System & International Regulatory Compatibility** 
 <br/>
-Friendly Investment, Fundraising & Financing Environment
+* **Friendly Investment, Fundraising & Financing Environment** 
 
 ---
 # **Taiwan Delegation Fields**
