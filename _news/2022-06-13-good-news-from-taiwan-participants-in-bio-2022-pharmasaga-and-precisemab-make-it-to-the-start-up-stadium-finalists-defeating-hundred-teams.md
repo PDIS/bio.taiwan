@@ -9,7 +9,7 @@ layout: page
 
 As the post-pandemic era approaches, the biomedical industry has become a strategic domain of focal emphasis in Taiwan and would be the critical impetus for the next wave of growth. In order to step up international connection and strive for business opportunities, Deputy Convener Tsung-tsong Wu of the Board of Science and Technology, Executive Yuan (BOST) is to lead a Taiwan delegation to partake in the BIO International Convention (BIO) to be held in San Diego, from June 13 to 16, 2022. Together with the delegation, the Ministry of Science and Technology (MOST) has also led 14 start-up teams specializing in new drug development, digital health, medical devices, and in vitro diagnostics to enroll in the signifying Start-Up Stadium in BIO. Good news is heard before the start of the convention: Pharmasaga and PrecisemAb will represent Taiwan to contend with other international teams for championship. It is the first time Taiwan's start-up teams enter the final of Start-Up Stadium since its debut in 2017, according to Taiwan Tech Arena.
 
-![BIO 2022](/images/20220613-1news.jpg)
+![BIO 2022](/images/20220613news-1.jpg)
 
 ### MOST's National Biomedical Start-up Teams Stand Out from over 100 Competitors with Robust Competence
 
