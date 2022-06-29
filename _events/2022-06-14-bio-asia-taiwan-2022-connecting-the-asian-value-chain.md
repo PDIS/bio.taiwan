@@ -47,3 +47,8 @@ Other sessions in this forum also include other critical fields in the biotechno
 ### 1-1 B2B matchmaking to promote the connection to global
 
 The number of global pharmaceuticals joining this event is increasing, showing the influence of BIO Asia. Johnsee Lee also hopes that holding BIO Asia-Taiwan both onsite and online can promote collaboration with international biotech companies and enlarge the market.
+
+<br/>
+Date: 2022-06-14
+<br/>
+Source: GeneOnline
