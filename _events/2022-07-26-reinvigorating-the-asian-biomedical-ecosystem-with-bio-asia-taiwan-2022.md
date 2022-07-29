@@ -7,7 +7,6 @@ permalink: events/reinvigorating-the-asian-biomedical-ecosystem-with-bio-asia-ta
 layout: page
 ---
 ![bioasiataiwan.com](/images/eDM_BioAsia Taiwan.jpg)(https://bioasiataiwan.com/en/registration/plan)
-[bioasiataiwan.com](https://bioasiataiwan.com/en/registration/plan)
 <br/>
 BIO Asia-Taiwan 2022 Onsite + Online International Conference and Exhibition will be held from July 27 to 31 in Taipei, Taiwan. Themed Connecting the Asian Value Chain, the event will take place in both onsite and online formats for greater participation, 550+ biotech companies and industry professionals from 30+ countries are expected to attend.
 
