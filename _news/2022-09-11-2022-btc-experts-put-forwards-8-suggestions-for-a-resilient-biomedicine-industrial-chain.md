@@ -1,5 +1,5 @@
 ---
-title: 2022 BTC: Experts put forwards 8 suggestions for a resilient biomedicine industrial chain
+title: 2022 BTC：Experts put forwards 8 suggestions for a resilient biomedicine industrial chain
 summary: The 2022 Bio Taiwan Committee (BTC) conference closed on the 7th. In the closing ceremony, Dr Chang Hong-Jen presented the overall conclusions and opinions to Shen Jong-Chin the Vice Premier of the Executive Yuan.  The BTC Committee members and experts formed consensuses and drew up eight suggestions, urging the government to strengthen the industrial chain, to ensure self-sufficiency in the production and supply of key medicines, medical devices and vaccines and to clarify the positions and the policies about contract development and manufacturing company (CDMO).
 image: /images/20220911news.jpg
 category: news
