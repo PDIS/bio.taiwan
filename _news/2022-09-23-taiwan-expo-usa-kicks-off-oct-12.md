@@ -32,7 +32,6 @@ Cultural performances will also be a mainstay of all three days of the expo, inc
 This expo aims to highlight the U.S. and Taiwan’s robust and buoyant economic ties, including seamless collaboration on building up the resilience of the global supply chain, and to bolster bilateral economic, cultural and people-to-people connections, especially in tech industries that will drive our future.
 
 **[About Taiwan Expo USA](https://www.taiwanexpousa.com/en/index.html )** 
-
 <br/>
 Date: 2022-09-23
 <br/>
