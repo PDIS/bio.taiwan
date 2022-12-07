@@ -9,7 +9,7 @@ layout: page
 Taking place on 1-4 December in Taipei, the Expo 2022 welcomes the visit from international delegations and sees robust demands for business matchmaking opportunities amid economic downturns.
 
 <br/>
-* **Healthcare&LifeSciencesReview_Taiwan Report**  [*Download](https://drive.google.com/file/d/1Ufl-kMtZhKWuAHrC-PX2BwY4_h0ZLtua/view?usp=sharing)
+
 <br/>
 
 As international travel resumed, the Healthcare+ Expo will again congregate industry associations and professionals from around the world in Taipei, eyeing digital transformation and a technology-centred health ecosystem in response to unprecedented challenges as a result of the global pandemic and supply-chain uncertainties.      
