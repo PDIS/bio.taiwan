@@ -16,6 +16,7 @@ The NSTC assisted Taiwanese teams in participating in the prestigious Startup Co
 Although Taiwanese teams possess advanced technology research and development capabilities, they currently need the recognition of European markets. The NSTC won an opportunity for an exclusive showcase at the Medica Connected Healthcare Forum (MCHF) on November 17. There, the Taiwanese teams can publish their technological achievements; engage in face-to-face interactions with international accelerators, companies, venture capital, and the academic and research sector; and explain Taiwan's policies for building a precision health environment. Additionally, the council actively organizes business meetings, communicating with international corporations such as the 3M Group, ASKLEPIOS Group, Merck Group, and ASML. In the future, the council will promote all-round international marketing connections, helping Taiwan's Medical teams from industries and academic and research organizations shine on the global market and creating more opportunities for Taiwan's biomedical industry.
 
 Contact person 1: Sing Lin, sing.lin@itri.org.tw, 01523 6809749, Industrial Technology Research Institute
+<br/>
 Contact person 2: Ellie Peng, elliepeng@itri.org.tw, Industrial Technology Research Institute
 
 <br/>
