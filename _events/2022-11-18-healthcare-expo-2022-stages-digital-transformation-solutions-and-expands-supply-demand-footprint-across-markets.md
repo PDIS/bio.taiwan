@@ -7,11 +7,9 @@ permalink: events/healthcare-expo-2022-stages-digital-transformation-solutions-a
 layout: page
 ---
 Taking place on 1-4 December in Taipei, the Expo 2022 welcomes the visit from international delegations and sees robust demands for business matchmaking opportunities amid economic downturns.
-
-<br/>
-**Explore More** []
 <br/>
 
+<br/>
 As international travel resumed, the Healthcare+ Expo will again congregate industry associations and professionals from around the world in Taipei, eyeing digital transformation and a technology-centred health ecosystem in response to unprecedented challenges as a result of the global pandemic and supply-chain uncertainties.      
 Industry associations from the Asia-Pacific region, Eastern Europe and the Gulf region, will be joining 50 medical devices distributors and 100 hospitals from over 10 countries to explore medical displays, smart hospital solutions, IT systems and telemedicine products through Healthcare+ B2B, a digital platform where it showcases 1,200+ flagship products and generates more than 200 in-person meeting appointments between international buyers and Taiwan-based suppliers. Countries including Czech, Hungary, Poland, and fast-growing economies such as  Indonesia, Malaysia, Philippines, Thailand and Vietnam, have shown their interest in developing strategic partnership with the healthcare industry of Taiwan in addition to the aim at broadening a supply-chain network. 
 
