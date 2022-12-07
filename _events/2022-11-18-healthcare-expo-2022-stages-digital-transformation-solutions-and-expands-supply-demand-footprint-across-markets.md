@@ -20,6 +20,7 @@ Being one of the largest trade fairs, the Expo achieved a 15% increase in the nu
 
 A high turnout of people attending the four-day Healthcare Expo 2022 is expected to exceed 180,000 recorded last year.
 
+**[Explore More](https://expo.taiwan-healthcare.org/en/visit/why.php?utm_source=BioSpectrum&utm_medium=article&utm_campaign=article_HealthcareExpo2022&utm_source=fb&utm_medium=expo&utm_campaign=registration_en)**
 <br/>
 Date: 2022-11-18
 <br/>
