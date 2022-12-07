@@ -7,7 +7,7 @@ permalink: events/healthcare-expo-2022-stages-digital-transformation-solutions-a
 layout: page
 ---
 
-* **Explore More** [http://onepieceit.com/medica2018/]([http://onepieceit.com/medica2018/](https://expo.taiwan-healthcare.org/en/visit/why.php?utm_source=BioSpectrum&utm_medium=article&utm_campaign=article_HealthcareExpo2022&utm_source=fb&utm_medium=expo&utm_campaign=registration_en))
+* **Explore More** ([http://onepieceit.com/medica2018/](https://expo.taiwan-healthcare.org/en/visit/why.php?utm_source=BioSpectrum&utm_medium=article&utm_campaign=article_HealthcareExpo2022&utm_source=fb&utm_medium=expo&utm_campaign=registration_en))
 
 Taking place on 1-4 December in Taipei, the Expo 2022 welcomes the visit from international delegations and sees robust demands for business matchmaking opportunities amid economic downturns.
 
