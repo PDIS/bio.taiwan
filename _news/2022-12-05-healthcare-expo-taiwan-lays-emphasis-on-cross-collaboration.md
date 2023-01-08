@@ -27,6 +27,7 @@ The core objective of the tour was to familiarise the foreign delegates with spe
 
 Another key highlight of the Expo was the MedTex Summit Asia where a panel discussion laid emphasis on Taiwan’s current practice and opportunities in steering the way towards next-gen smart hospitals and how the technology sector is setting its foot in healthcare.
 
+<img src="https://www.biospectrumindia.com/uploads/articles/Picture2.png">
 <br/>
 Date: 2022-12-05
 <br/>
