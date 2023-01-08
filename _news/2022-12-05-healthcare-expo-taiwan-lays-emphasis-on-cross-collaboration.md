@@ -17,6 +17,8 @@ Organised by the Institute for the Biotechnology and Medicine Industry (IBMI), t
 
 He further added, “The Expo has become a very important platform for cross- industry collaborations thanks to the Ministry of Health and Welfare’s support."
 
+<img src="https://www.biospectrumindia.com/uploads/articles/Picture3.png">
+
 IBMI Vice President, Pan-Chyr Yang, said, “Amended in 2021, the Act for the Development of Biotech and Pharmaceutical Industry refuels innovations and R&D in digital health, precision medicine, regenerative medicine and some niche areas regarding healthcare. Coupled with the Expo’s building an ecosystem for the health digital transformation, we have expanded our reach in the said business” he added. 
 
 The Healthcare+ Expo which is an integration of the healthcare supply chain, including MedTech, Biotechnology, HealthTech and nine- niche sub categories that the industry values, organised a guided tour for oversease delegates.
