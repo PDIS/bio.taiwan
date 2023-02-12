@@ -20,4 +20,6 @@ Taiwan is committed to cementing its position in the global economy, the NDC sai
 A key plank in the government’s national development strategy, the initiative targets the high-growth sectors of biotech, green energy, national defense, smart machinery and Internet of Things, while promoting the circular economy and a new paradigm for agricultural development. (DL-E)
 
 <br/>
+Date: 2023-01-18
+<br/>
 Source: Taiwan Today
