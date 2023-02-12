@@ -27,6 +27,8 @@ The TTA pavilion this year was divided into four distinct sections: digital heal
 
 “We held many events together, especially pitches which involved the same topic as other countries. I observed there are a lot of startups' presence at Eureka Park focused on smart health solutions to make life better,” said Hsu.
 
+<img src="https://image.taiwannews.com.tw/photos/2023/01/10/1673319191-63bcd317c3553.jpeg">
+
 One highlight of this year’s exhibition was 10 Taiwanese startups specially selected for the CES Innovation Award. The list of winners included: Artificial Intelligence Co., CytoAurora Biotechnologies, DeClock Intelligences Co., ible Technology Inc., Mbran Filtra Co., Ltd., Mindtronic AI, NeuinX, Neurobit Technologies Co., Ltd., PanelSemi, and Quantum Music Co., Ltd.
 
 CES Innovation Award winners cover the gamut of tech innovation ranging from digital twins for health IoT to products and services such as cancer tests to sports analysis and observation.
