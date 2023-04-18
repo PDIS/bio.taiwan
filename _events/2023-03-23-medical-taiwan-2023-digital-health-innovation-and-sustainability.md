@@ -7,7 +7,7 @@ permalink: events/medical-taiwan-2023-digital-health-innovation-and-sustainabili
 layout: page
 ---
 
-<a href="https://bio.taiwan.gov.tw/images/20230324news.jpg"><img src="https://bio.taiwan.gov.tw/images/20230324news.jpg"></a>
+<a href="https://bio.taiwan.gov.tw/images/20230324news.png"><img src="https://bio.taiwan.gov.tw/images/20230324news.png"></a>
 <br/>
 
 **Official Website：** [https://www.medicaltaiwan.com.tw/en/index.html](https://www.medicaltaiwan.com.tw/en/index.html)
