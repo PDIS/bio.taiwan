@@ -1,7 +1,7 @@
 ---
 title: Medical Taiwan 2023： Digital health, innovation, and sustainability
 summary: Population aging has become a global demographic "mega-trend," and the demand for the treatment and management of chronic illnesses and acute diseases and health care is also increasing.
-image: /imeage/20230323.jpg
+image: /images/20230323news.jpg
 category: events
 permalink: events/medical-taiwan-2023-digital-health-innovation-and-sustainability/
 layout: page
@@ -11,7 +11,7 @@ Official Website：https://www.medicaltaiwan.com.tw/en/index.html
 
 Population aging has become a global demographic “mega-trend,” and the demand for the treatment and management of chronic illnesses and acute diseases and health care is also increasing. Governments and companies around the world are going out of their way to develop healthcare technologies, hoping to assemble healthcare models and services that are efficient and precise.
 
-Taiwan leads the world in multiple medical technologies and plays a key strategic role in chip-making and ICT (information and communication technology), giving it an exclusive advantage to develop a cross-field value chain. Medical Taiwan, hosted by TAITRA (Taiwan External Trade Development Council) annually in June, gathers Taiwan’s top-notch medical device suppliers and smart healthcare companies. It is undoubtedly the best platform for professionals from the global healthcare industry to find supply chain partners and digital healthcare solutions.
+Taiwan leads the world in multiple medical technologies and plays a key strategic role in chip-making and ICT (information and communication technology), giving it an exclusive advantage to develop a cross-field value chain. <u>Medical Taiwan, hosted by TAITRA (Taiwan External Trade Development Council) annually in June</u>, gathers Taiwan’s top-notch medical device suppliers and smart healthcare companies. It is undoubtedly the best platform for professionals from the global healthcare industry to find supply chain partners and digital healthcare solutions.
 
 Taiwan scored 86.43 and ranked No.1 in the world for the 7th consecutive year according to Numbeo’s “Health Care Index by Country 2022,” a crowd-sourced global database of quality-of-life data. Besides providing healthcare services of excellent quality, the Taiwan government has spared no effort in promoting the medical industry’s development. It has listed precision health as one of the nation’s six core strategic industries, while laser-focusing on elderly care and technologies by mobilizing the industry, government, academia, and research institutions to accelerate the commercialization of products and services and to energize the market. The aim is to make the home healthcare and well-being market worth more than US$10 billion by 2025. In response to the latest industry trends and government policies, Medical Taiwan 2023 features a total of 250 exhibitors who will demonstrate their best on the following five themes: “Digital Leap,” “Supply Chain,” “Innovation Force,” “People-centric Future,” and “All Age Healthcare.”
 Visitors who see “Digital Leap” may explore the latest solutions in the Digital Health and Smart Medical areas, where leading smart medical device makers such as Faspro, iXensor, dBio, QT Medical, Winnoz, Huijia Health, and ThinkCloud will showcase health detection analyzers, wearable stethoscopes, smart monitoring, cloud systems, and other cutting-edge technological products.
