@@ -7,6 +7,9 @@ permalink: events/medical-taiwan-2023-digital-health-innovation-and-sustainabili
 layout: page
 ---
 
+<a href="https://bio.taiwan.gov.tw/images/20230324news.jpg"><img src="https://bio.taiwan.gov.tw/images/20230324news.jpg"></a>
+<br/>
+
 **Official Website：** [https://www.medicaltaiwan.com.tw/en/index.html](https://www.medicaltaiwan.com.tw/en/index.html)
 
 Population aging has become a global demographic “mega-trend,” and the demand for the treatment and management of chronic illnesses and acute diseases and health care is also increasing. Governments and companies around the world are going out of their way to develop healthcare technologies, hoping to assemble healthcare models and services that are efficient and precise.
