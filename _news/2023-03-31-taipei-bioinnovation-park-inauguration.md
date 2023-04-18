@@ -7,7 +7,7 @@ permalink: /news/taipei-bioinnovation-park-inauguration/
 layout: page
 ---
 
-**Official Website：** [http://bravotaiwan.tw/](http://bravotaiwan.tw/)
+**Official Website：** [https://invest.taipei/index.html](https://invest.taipei/index.html)
 
 Taipei Bioinnovation Park, Taiwan's first major biotechnology industry cluster, was inaugurated on 30 March, with the Chairman of Century Biotech Development Corporation, Mr. Mao-hsiung Huang (黃茂雄), inviting the Mayor of Taipei, Mr. Wan-an Chiang, and over 300 distinguished guests from home and abroad to witness the opening ceremony.
 
