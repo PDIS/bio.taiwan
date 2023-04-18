@@ -23,7 +23,7 @@ The Future Pavilion is another highlight of the show that, on one hand demonstra
 
 Medical Taiwan will be held at the Taipei Nangang Exhibition Center, Hall 2 (TaiNEX 2), from June 8 to 10, 2023, and is the most important business-matching trade show for Taiwan’s medical device industry. TAITRA, with more than 60 overseas offices, will be inviting global industry players to visit the exhibition and will be enhancing connections with emerging markets that have huge demographic dividends and growth potential. The “Health+ Conference” and a number of events, such as one-on-one procurement meetings, will be held to share what’s new in the industry and provide business opportunities for whoever visits the show. Register online right now and join us in exploring what’s next in healthcare!
 
-### About TAITRA
+About TAITRA
 TAITRA is a nonprofit organization established by the Taiwanese government in 1970. Its objective is to promote Taiwan’s foreign trade and facilitate business collaborations. TAITRA operates through a network of five local offices as well as over 60 offices worldwide, providing trade promotion, market research, education, and matchmaking services. TAITRA plays a crucial role in enhancing Taiwan’s global trade presence and promoting economic development.
 
 <br/>
