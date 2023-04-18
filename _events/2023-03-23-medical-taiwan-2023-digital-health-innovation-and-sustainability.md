@@ -1,6 +1,6 @@
 ---
-title: Medical Taiwan 2023: Digital health, innovation, and sustainability
-summary: Population aging has become a global demographic “mega-trend,” and the demand for the treatment and management of chronic illnesses and acute diseases and health care is also increasing.
+title: Medical Taiwan 2023： Digital health, innovation, and sustainability
+summary: Population aging has become a global demographic "mega-trend," and the demand for the treatment and management of chronic illnesses and acute diseases and health care is also increasing.
 image: /imeage/20230323.jpg
 category: events
 permalink: events/medical-taiwan-2023-digital-health-innovation-and-sustainability/
