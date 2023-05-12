@@ -18,6 +18,7 @@ Taiwan supports the United Nations' "2030 Sustainable Development Agenda" passed
 
 The National Health Insurance Administration recognizes the importance of collaborating and exchanging with the global international community. In the future, we will actively align with international health policies, create a whole-person and whole-process health care, and continue to work towards creating a society that is healthy, equal, and fair. We strive to become the best example in the world for implementing “Universal Health Coverage” and “Health for All” advocated by WHO.
 <br/>
+<br/>
 Date: 2023-04-07
 <br/>
 Source: National Health Insurance Administration, Ministry of Health and Welfare
