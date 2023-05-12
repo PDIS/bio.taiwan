@@ -1,7 +1,7 @@
 ---
 title: Celebrating 28 years of National Health Insurance and Ensuring Health for All in Taiwan
 summary: April 7th is World Health Day, which aims to raise awareness of health and healthcare work around the world, and increase people's knowledge and understanding of the field of health. 
-image: 
+image: https://www.mohw.gov.tw/Public/Images/202304/23823040711230d0ac.jpg
 category: news
 permalink: /news/celebrating-28-years-of-national-health-insurance-and-ensuring-health-for-all-in-taiwan/
 layout: page
