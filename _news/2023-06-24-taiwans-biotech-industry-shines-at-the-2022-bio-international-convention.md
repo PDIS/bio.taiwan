@@ -1,16 +1,16 @@
 ---
 title: Taiwan’s Biotech Industry Shines at the 2022 BIO International Convention
-summary: Taiwan Pavilion’s opening ceremony. Left to right: Nancy Travis, VP of BIO, John A. Murphy, III, VP of BIO, Dr. Michelle McMurry-Heath, President & CEO of BIO, Tsung-Tsong Wu, Minister of Science and Deputy Convenor from the Board of Science and Technology of the Executive Yuan, Louis M. Huang, Director General of Taipei Economic and Cultural Office in Los Angeles, Wesley Mathews, President & CEO of Choose New Jersey, Carol Malysz, Executive Director of RI Bio, Lilia Holt, Associate Vice President Business Development of Rhode Island Commerce Corporation.
+summary: The annual BIO International Convention hosted by Biotechnology Innovation Organization (BIO) is the world’s largest industry gathering.
 image: https://www.geneonline.com/wp-content/uploads/KI8A6149-scaled-e1656057798944.jpg
 category: news
 permalink: /news/taiwans-biotech-industry-shines-at-the-2022-bio-international-convention/
 layout: page
 ---
-he annual BIO International Convention hosted by Biotechnology Innovation Organization (BIO) is the world’s largest industry gathering. It brings together thousands of global biotechnology industries, biopharmaceutical leaders, and related organizations from over 30 countries. As the innovation hub of the Asia-Pacific region and a crucial link between Europe, the Americas, Japan, and Asia-Pacific markets, Taiwan is actively promoting precision medicine and digital health developments. 
+The annual BIO International Convention hosted by Biotechnology Innovation Organization (BIO) is the world’s largest industry gathering. It brings together thousands of global biotechnology industries, biopharmaceutical leaders, and related organizations from over 30 countries. As the innovation hub of the Asia-Pacific region and a crucial link between Europe, the Americas, Japan, and Asia-Pacific markets, Taiwan is actively promoting precision medicine and digital health developments. 
 
 For the first time since the COVID-19 pandemic, Taiwan’s Biotechnology and Pharmaceutical Industries Promotion Office (BPIPO) organized the Taiwan Pavilion, bringing together all 54 Taiwan organizations at the world’s largest gathering of leading professionals in the biotechnology industry. The pavilion featured representatives from clinical research organizations, contract development & manufacturing organizations, regenerative medicine, agriculture biotechnology, precision medicine, and smart health. At the same time, it highlighted Taiwan’s over 900 GMP-compliant facilities, comprehensive infrastructure clusters, compatibility with international regulations, and robust intellectual property system that make it an attractive location for multinational companies to establish their regional headquarters. The Taiwan Pavilion joined other 25+ International Pavilions, 20+ Domestic Pavilions (US), and over 250 leading biotech companies on the exhibition floor. 
 
-Taiwan’s First Entry into Start-Up Stadium’s Finalists
+**Taiwan’s First Entry into Start-Up Stadium’s Finalists**
  
 14 start-up teams specializing in novel drug development, digital health, medical devices, and in-vitro diagnostics also enrolled in the convention’s Start-Up Stadium, to showcase their latest products and solutions. Two companies, Pharmasaga and PrecisemAb Biotech, competed with over 100 international teams in the championship, signifying Taiwan’s startup teams’ first entry into the Start-Up Stadium final since its debut in 2017. 
 
