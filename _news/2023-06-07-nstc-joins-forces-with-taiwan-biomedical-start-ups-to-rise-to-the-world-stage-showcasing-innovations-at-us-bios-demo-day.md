@@ -1,7 +1,7 @@
 ---
 title: NSTC Joins Forces with Taiwan Biomedical Start-ups to Rise to the World Stage, Showcasing Innovations at US BIO’s Demo Day
 summary: NSTC organized Taiwan Smart Health Demo Day during 2023 US BIO, where 20 start-up companies showcased Taiwan's capabilities in biomedical innovation.
-image: https://www.nstc.gov.tw/nstc/attachments/411ed9a0-b510-4d4c-a62a-26f51e63e8e1
+image: /images/20230607news.jpg
 category: news
 permalink: /news/nstc-joins-forces-with-taiwan-biomedical-start-ups-to-rise-to-the-world-stage-showcasing-innovations-at-us-bios-demo-day/
 layout: page
