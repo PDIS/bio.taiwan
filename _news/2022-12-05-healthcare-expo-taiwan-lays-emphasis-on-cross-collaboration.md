@@ -1,7 +1,7 @@
 ---
 title: Healthcare+ Expo Taiwan lays emphasis on cross-collaboration
 summary: Focusing on Smart Hospital, Precision Diagnostics, Biopharmaceuticals, Regenerative Medicines, Digital Health and much more
-image: https://www.biospectrumasia.com/uploads/articles/1e432b5c_8933_4293_9c78_dabe8b697866-21536.JPG
+image: https://www.biospectrumindia.com/uploads/articles/Picture3.png
 category: news
 permalink: /news/healthcare-expo-taiwan-lays-emphasis-on-cross-collaboration/
 layout: page
