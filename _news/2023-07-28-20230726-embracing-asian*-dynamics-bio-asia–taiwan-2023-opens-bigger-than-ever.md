@@ -17,13 +17,13 @@ Herbert Wu, Chairman of Taiwan BIO, stated that this year's theme symbolizes the
  
 Wu also highlighted Taiwan's biotech industry's ability to quickly utilize resources and technology to develop products for global markets, as it did during the pandemic. He expressed hope that Taiwan could contribute to the global biopharmaceutical supply chain as part of contract development and manufacturing organizations (CDMOs) in small molecule drugs, biologics, and active pharmaceutical ingredients (APIs).
  
-<img src="https://bio.taiwan.gov.tw/images/2023-728-2.jpg">
+<img src="https://bio.taiwan.gov.tw/images/20230728-2.jpg">
 
 Susanna Ling, Vice President of BIO, expressed gratitude for Taiwan's participation in the recent BIO conference in Boston in June. She echoed the theme of this conference, emphasizing that Asia will be a crucial driving force in the global pharmaceutical market for at least the next ten years. She also noted the active licensing and trading within and beyond Asia, underscoring the importance of collaboration and exchange.
  
 Chern Yijuang, National Science and Technology Council Deputy Minister, discussed the main focuses of this exhibition: precision health and CDMO, and emphasized new Taiwan’s Precision Health Initiative which combines digital technology with biomedicine to create a new and comprehensive healthcare ecosystem. Additionally, with the rapid growth CDMO worldwide, the exhibition’s dedicated CDMO zone, established for the first time last year, will again showcase the strategies and service offerings of various CDMO providers.
 
-<img src="https://bio.taiwan.gov.tw/images/2023-728-3.jpg">
+<img src="https://bio.taiwan.gov.tw/images/20230728-3.jpg">
 
 John Murphy, Chief Policy Officer of BIO, in his presentation discussed the challenges and opportunities within the US biotech industry's policy environment. He mentioned the potential significant impact of the Inflation Reduction Act that took effect in 2022, affecting drug price negotiations for pharmaceutical companies. Additionally, he discussed the Biomanufacturing Executive Order, signed in the same year, which aims to advance the US biotech and biomanufacturing industries towards sustainability, safety, and security, influencing biotech and medical regulations globally, including the EU.
  
@@ -37,7 +37,7 @@ Jens Neumann, a Partner at PwC Strategy& in Europe, indicated that the pharmaceu
  
 In the media session that followed, Johnsee Lee, Susanna Ling from BIO, Murali P.M. from the India Biotechnology Association, Herbert Wu, Vice Chairman Jo Shen and Vice Chairman Audrey Tseng from Taiwan BIO gathered to discuss Taiwan's biotech and medical industry development and regional cooperation. Susanna Ling emphasized the long timelines involved in developing value chains in biotech and the importance of collaboration and exchange between participants, reflected in the record 57,000 matchmaking sessions at last month's BIO conference over the three and a half-day event. While Murali P.M. pointed out that due to the impact of the pandemic, the global biotech industry quickly found solutions through mutual cooperation, demonstrating the importance of regional collaboration.
 
-<img src="https://bio.taiwan.gov.tw/images/2023-728-4.jpg">
+<img src="https://bio.taiwan.gov.tw/images/20230728-4.jpg">
 
 After today's forum opening, tomorrow will feature Day Two of the conference, the opening of the exhibition, the company presentation program, one-on-one business meetings, and more regional cooperation forums.
 <br/>
