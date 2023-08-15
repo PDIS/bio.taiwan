@@ -1,7 +1,7 @@
 ---
 title: Taiwan BioMed Industry Eyes $32B
 summary: Biomedicine is a top priority for Taiwan, with the government aiming to position the country as the leading hub for biomedical research and development in the Asia-Pacific region. 
-image: /images/20230728-1.jpg
+image: https://www.biospectrumasia.com/uploads/articles/bsa_3_-22825.png
 category: news
 permalink: /news/taiwan-bioMed-industry-eyes-$32b/
 layout: page
