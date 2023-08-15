@@ -81,6 +81,7 @@ To truly become a biomedical superpower, Taiwan must strive for further advancem
 • Improving tax policies for intellectual property can be improved. Currently, some tax benefits related to intellectual properties are only available for investments in domestic companies, but not for investments in foreign companies. I believe that extending these incentives to investments in foreign companies will help Taiwanese companies to create more value for their stakeholders when cooperating with foreign companies, helping to shape a multi-trillion-dollar industry.
 Taiwan has made significant strides towards achieving its objectives. Strategic initiatives and investments have set it on a promising path and opened up significant investment and collaboration opportunities. As 2025 approaches, the world will be eagerly watching Taiwan's progress in achieving its ambitious goals. 
 <br/>
+<br/>
 Date: 2023-08-02
 <br/>
 Source: BioSpectrum Asia
