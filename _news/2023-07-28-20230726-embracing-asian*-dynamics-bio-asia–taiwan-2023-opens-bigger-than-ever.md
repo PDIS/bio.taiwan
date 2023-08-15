@@ -1,5 +1,5 @@
 ---
-title: 2023/7/26 Embracing Asian Dynamics, BIO Asia–Taiwan 2023 Opens Bigger than Ever!
+title: Embracing Asian Dynamics, BIO Asia–Taiwan 2023 Opens Bigger than Ever!
 summary: BIO Asia-Taiwan 2023 kicked off Wednesday 26th July at the Taipei Nangang Exhibition Center with Day One of the three-day conference.
 image: /images/20230728-1.jpg
 category: news
