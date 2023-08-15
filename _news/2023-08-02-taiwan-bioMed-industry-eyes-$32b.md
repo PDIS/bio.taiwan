@@ -75,7 +75,9 @@ The R&D investments made by international pharmaceutical companies in Taiwan are
 To truly become a biomedical superpower, Taiwan must strive for further advancements. Tsai proposes the following measures:
 
 • Setting up of a sovereign fund dedicated to the biomedicine industry, by the government. Taiwan’s strengths in the semiconductor industry and the biotech industry are built on nearly 30 years of investment. However, investors, whether public or private, may have different investment horizons. I believe that some form of patient capital backed by the government would be very helpful.
+<br/>
 • Increasing connection and cooperation with the major international biotechnology companies.
+<br/>
 • Improving tax policies for intellectual property can be improved. Currently, some tax benefits related to intellectual properties are only available for investments in domestic companies, but not for investments in foreign companies. I believe that extending these incentives to investments in foreign companies will help Taiwanese companies to create more value for their stakeholders when cooperating with foreign companies, helping to shape a multi-trillion-dollar industry.
 Taiwan has made significant strides towards achieving its objectives. Strategic initiatives and investments have set it on a promising path and opened up significant investment and collaboration opportunities. As 2025 approaches, the world will be eagerly watching Taiwan's progress in achieving its ambitious goals. 
 <br/>
