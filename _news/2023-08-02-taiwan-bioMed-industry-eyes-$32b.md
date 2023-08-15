@@ -9,12 +9,6 @@ layout: page
 
 Biomedicine is a top priority for Taiwan, with the government aiming to position the country as the leading hub for biomedical research and development in the Asia-Pacific region. By 2025, Taiwan aims to create 20 new medicines, introduce 80 high-value medical devices to the market, and elevate the biomedicine industry into a trillion-NT-dollar (approximately $32 billion) sector. The government has taken various initiatives, established biomedicines clusters and tweaked policies to achieve this goal. Has the effort paid off? How far has the country come to achieve its goals? Let’s find out.
 
-<img src="https://bio.taiwan.gov.tw/images/20230728-2.jpg">
-
-Susanna Ling, Vice President of BIO, expressed gratitude for Taiwan's participation in the recent BIO conference in Boston in June. She echoed the theme of this conference, emphasizing that Asia will be a crucial driving force in the global pharmaceutical market for at least the next ten years. She also noted the active licensing and trading within and beyond Asia, underscoring the importance of collaboration and exchange.
- 
-Chern Yijuang, National Science and Technology Council Deputy Minister, discussed the main focuses of this exhibition: precision health and CDMO, and emphasized new Taiwan’s Precision Health Initiative which combines digital technology with biomedicine to create a new and comprehensive healthcare ecosystem. Additionally, with the rapid growth CDMO worldwide, the exhibition’s dedicated CDMO zone, established for the first time last year, will again showcase the strategies and service offerings of various CDMO providers.
-
 <img src="https://www.biospectrumasia.com/uploads/articles/bsa_3_-22825.png">
 
 Taiwan's ‘5+2’ Innovative Industries Plan prioritises biomedicine. The government approved the Biomedical Industry Innovation Program (BIIP) in 2016 to establish Taiwan as the capital of biomedical research and development in the Asia-Pacific region.  Taiwan is harnessing its capabilities in the semiconductor and manufacturing sector to propel the biomedicine sector forward. Thanks to favourable policies and various other initiatives, the biomedicine industry is booming. It’s worth noting that Taiwan's biomedical industry comprises four major sectors: applied biotechnology, pharmaceuticals, medical devices and healthcare.
@@ -31,7 +25,7 @@ In 2022, 172 companies have been certified as biotech companies, and 453 items h
 
 The government's multiple schemes are successfully attracting more companies to invest in biotech, propelling the industry towards a new era. The bet seems to be paying off with various big pharma firms forging partnerships and expansion in the country. The latest one is the German mRNA major BioNTech SE. In December 2022, the company announced its plan to accelerate and broaden the clinical development of its cancer immunotherapy pipeline in the Asia-Pacific region. As part of this expansion, the company planned to establish new clinical trial sites in East Asia, with Taiwan being the first location. The main objective of these regional trials is to evaluate the effectiveness of BioNTech's mRNA-based cancer immunotherapy product, BNT113, in treating head and neck cancer.
 
-Supporting innovations
+**Supporting innovations**
 
 The government has been actively working to establish a biomedical hub in the region, with a particular focus on developing biomedical and innovation clusters. Several significant milestones have been achieved to support this vision. Notable accomplishments include the launch of the National Biotechnology Park in 2018, the establishment of the National Taiwan University Hospital Hsinchu Branch in 2019, and the creation of the Southern Taiwan Science Park Smart Biotech Medical Cluster in 2020. 
 
@@ -43,7 +37,7 @@ Moreover, in 2021, Taiwan amended the ‘Regulations Governing the Administratio
 
 In addition, the government has come up with various subsidies such as the ‘Leap Forward Programme for Cross-industry Integration in Biomedicine’. It encourages R&D projects to foster innovation in medical devices like IoT mobile devices and high-end medical imaging. Grants cover up to 50 per cent of project costs, promoting breakthroughs in technology applications.
 
-Precision health initiatives 
+**Precision health initiatives**
 
 Taiwan is particularly bullish on advancing precision medicines. The government launched the ‘Taiwan Precision Health Strategy Development Programme’ in May 2020. As per the programme,  Taiwan will build a Taiwan Bio-Medical Data Commons, develop precision disease prevention, diagnosis, and treatment systems, develop high-precision pandemic prevention products, and expand international biomedical business opportunities to promote Taiwan's pandemic prevention brand across the globe.
 
@@ -60,7 +54,7 @@ In 2021, Pfizer and the National Institutes of Health formed a precision medicin
 
 In 2020, Merck signed an MoU with NHRI to enhance the National Precision Medicine Programme for cancer testing and treatment. They aim to collaborate on the 2030 Precision Health System, prioritising the well-being of Taiwanese citizens.
 
-Is it a tall order? 
+**Is it a tall order?**
 
 Undoubtedly, Taiwan has made significant strides towards achieving its NT$1 trillion dream in the biomedicine industry.
 
