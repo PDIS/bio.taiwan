@@ -1,9 +1,9 @@
 ---
-title: Taiwan BioMed Industry Eyes $32B
-summary: Biomedicine is a top priority for Taiwan, with the government aiming to position the country as the leading hub for biomedical research and development in the Asia-Pacific region. 
-image: https://www.biospectrumasia.com/uploads/articles/bsa_3_-22825.png
+title: Taiwan aims to build NT$1 trillion biotech industry
+summary: Premier Chen Chien-jen (陳建仁) on Monday said the government plans to build the local biotech industry into the next industry in Taiwan to generate NT$1 trillion (US$31.35 billion) in production value.
+image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2023/20230828/985x768_982417339816.jpg
 category: news
-permalink: /news/taiwan-bioMed-industry-eyes-$32b/
+permalink: /news/taiwan-aims-to-build-NT$1-trillion-biotech-industry/
 layout: page
 ---
 
