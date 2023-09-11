@@ -19,7 +19,19 @@ The Executive Yuan plans to integrate resources across government, to map out ap
 
 Currently, several industries in Taiwan have posted more than NT$1 trillion in production value, including the semiconductor, Internet communications, server, display, printed circuit board and machinery industries.
 
-The government will collect information and opinions from experts at the three-day annual meeting under the BTC, which was set up by the Executive Yuan in 2005, as an important reference as the Cabinet seeks to promote the biotech development, Chen said. 
+The government will collect information and opinions from experts at the three-day annual meeting under the BTC, which was set up by the Executive Yuan in 2005, as an important reference as the Cabinet seeks to promote the biotech development, Chen said.
+
+Chen praised Taiwan for having world-class biotech and medical care talent which provide excellent healthcare services and enabled the country to take first spot in the global Health Care Index for the fourth consecutive year, indicating hospital services and digital medical care in Taiwan are well recognized worldwide.
+
+Referencing Taiwan's efforts at combating the COVID-19 pandemic over the past three years as an example, Chen said the success came from the country's sound and comprehensive medical care system and close cooperation between the public and government.
+
+With its people protected by a good healthcare system, Chen said, Taiwan boasted one of the best economic performances in the world from 2020-2022.
+
+The government aims to set up biotech industrial clusters in Taiwan by encouraging more startups to join the sector and attracting more foreign companies to enter the local market, Chen said.
+
+The "5 plus 2" industries refers to seven development projects proposed by the government to transform the nation's economic and industrial structure. In addition to biotechnology, the other industries are projects related to intelligent machinery, an Asian Silicon Valley, green energy, national defense and aerospace, innovative agriculture and the circular economy.
+
+The six core strategic industries are the information and digital, cybersecurity, precision health, green and renewable energy, national defense and strategic stockpile industries.
 <br/>
 <br/>
 Date: 2023-08-28
