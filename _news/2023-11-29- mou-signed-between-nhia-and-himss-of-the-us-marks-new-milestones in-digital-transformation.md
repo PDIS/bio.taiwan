@@ -15,13 +15,13 @@ HIMSS is a globally operating nonprofit organization with more than 60 years of 
 
 For this MOU, both parties have focused on integrating the HIMSS Digital Health Indicator (DHI) and cybersecurity optimization strategies to help the NHIA establish the previously mentioned digital platform and optimizing the performance of cross-system data processing. Moreover, the collaboration aims to enhance the smart utilization of health data and improve the NHI database ecosystem to refine overall healthcare quality. The four main focuses of the collaboration are as follows: 
 
-1. Holistic healthcare: Improving population health through digital transformation and collaboration.
+1.Holistic healthcare: Improving population health through digital transformation and collaboration.
 
-2. Digital capacity building: Establishing an NHI digital health ecosystem through an evidence-driving approach and the DHI framework to develop electronic medical records, digital imaging, data analysis, and infrastructure.
+2.Digital capacity building: Establishing an NHI digital health ecosystem through an evidence-driving approach and the DHI framework to develop electronic medical records, digital imaging, data analysis, and infrastructure.
 
-3. Cybersecurity resilience: Enhancing data governance, facilitating data access, and minimizing risks associated with sensitive data utilization.
+3.Cybersecurity resilience: Enhancing data governance, facilitating data access, and minimizing risks associated with sensitive data utilization.
 
-4. Workforce development: Establishing digital health capacity and innovation programs for the workforce.
+4.Workforce development: Establishing digital health capacity and innovation programs for the workforce.
 
 HIMSS President & CEO Hal Wolf said that digital health technology application is a vital step in improving health equity and patient outcomes for Taiwan's healthcare system. With this collaboration, the NHIA and HIMSS have demonstrated their ongoing commitment to increasing healthcare access, better protecting patient data, and training the future healthcare workforce. Together, the NHIA and HIMSS will help to transform healthcare in Taiwan.
 
