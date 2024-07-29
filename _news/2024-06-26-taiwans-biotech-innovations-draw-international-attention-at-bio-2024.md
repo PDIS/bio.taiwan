@@ -7,7 +7,7 @@ permalink: /news/taiwans-biotech-innovations-draw-international-attention-at-bio
 layout: page
 ---
 
-SAN DIEGO, June 26, 2024 /PRNewswire/ -- The 2024 BIO International Convention, the world's largest biotechnology event, took place in San Diego, USA, from June 3 to 6. This year's convention drew biomedical investors and research experts worldwide. Over 1,500 exhibitors showcased their innovations to more than 19,500 attendees from 70 countries. The Taiwan Pavilion garnered significant attention, holding over 400 meetings in four days and highlighting Taiwan's rising biotech industry.
+The 2024 BIO International Convention, the world's largest biotechnology event, took place in San Diego, USA, from June 3 to 6. This year's convention drew biomedical investors and research experts worldwide. Over 1,500 exhibitors showcased their innovations to more than 19,500 attendees from 70 countries. The Taiwan Pavilion garnered significant attention, holding over 400 meetings in four days and highlighting Taiwan's rising biotech industry.
 
 **Leading Taiwanese Pharmaceutical Companies' Capabilities Showcased**
 
