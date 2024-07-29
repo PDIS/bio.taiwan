@@ -1,6 +1,6 @@
 ---
 title: Taiwan's Biotech Innovations Draw International Attention at BIO 2024
-summary: The Executive Yuan on Thursday approved the Ministry of Health and Welfare's (MOHW) draft bills for a regenerative medicine act and a regenerative pharmaceuticals act.
+summary: The 2024 BIO International Convention, the world's largest biotechnology event, took place in San Diego, USA, from June 3 to 6. This year's convention drew biomedical investors and research experts worldwide. 
 image: /images/20240626news.jpg
 category: news
 permalink: /news/taiwans-biotech-innovations-draw-international-attention-at-bio-2024/
