@@ -1,5 +1,5 @@
 ---
-title: 2025 Global Smart Hospital Rankings: Eight Taiwanese Hospitals Make the List
+title:2025 Global Smart Hospital Rankings: Eight Taiwanese Hospitals Make the List
 summary: With the rise of digital healthcare driven by technologies such as IoT and AI, the healthcare industry has significantly enhanced the precision and responsiveness of clinical diagnostics, treatments, and patient care. 
 image: /images/20240922news.jpg
 category: news
