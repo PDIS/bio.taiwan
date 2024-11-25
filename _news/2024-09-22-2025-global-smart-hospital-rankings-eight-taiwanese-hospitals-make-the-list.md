@@ -10,6 +10,7 @@ layout: page
 •Top 10 Global Hospitals: Sheba Medical Center Becomes the First Asian Hospital to Top the List<br/>
 •Top 100: Taichung Veterans General Hospital Ranked 99th Globally<br/>
 •New Entrants: Kaohsiung Chang Gung, Kaohsiung Veterans General Hospital, Linkou Chang Gung, National Cheng Kung University Hospital<br/>
+<br/>
 With the rise of digital healthcare driven by technologies such as IoT and AI, the healthcare industry has significantly enhanced the precision and responsiveness of clinical diagnostics, treatments, and patient care. These innovations also help reduce the workload of healthcare professionals and improve the quality of medical services for patients. In recent years, leading hospitals worldwide have not only focused on traditional healthcare services but also actively integrated the latest AIoT technologies to transform into smart hospitals.
 
 The results of the 2025 Top Smart Hospitals rankings, jointly evaluated by Newsweek and the renowned data analytics site Statista, were released on the 19th. This year's list includes 350 hospitals from 28 countries, predominantly from Europe and North America, with 156 and 118 hospitals, respectively. In Asia, 61 hospitals made the list, an increase of 12 from the previous year. Based on the number of hospitals ranked, the top five countries are the United States (104), Germany (27), the United Kingdom (22), Italy (21), and France (20).
