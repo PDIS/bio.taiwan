@@ -1,11 +1,33 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset="utf-8">
-      <meta http-equiv="refresh" content="0; URL='https://digi.nstc.gov.tw/AnnoucePage2.aspx'">
-      <title>重定向</title>
-    </head>
-    <body>
-      <p>您將被轉址到新的頁面...</p>
-    </body>
-    </html>
+
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		{% include head.html %}
+	</head>
+
+	<body class="homepage">
+		
+		{% include scripts.html %}
+
+		<div id="page-wrapper">
+
+			{% include header.html %} 
+			{% include vision.html %} 
+			{% include video.html %} 
+			{% include maingoals.html %}
+			<!-- {% include tabs.html %} -->
+			{% include opportunities.html %} 
+			{% include actionplan.html %}
+			{% include news.html %}
+			{% include events.html %}
+			{% include footer.html %}
+
+		</div>
+	
+	</body>
+</html>
